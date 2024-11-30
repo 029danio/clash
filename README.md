@@ -1,7 +1,7 @@
 # clash
 
 ## Windows软件下载
-
+Clash Verge [点击下载>>](https://github.com/clash-verge-rev/clash-verge-rev/releases/latest)
 
 
 ## 联系方式
