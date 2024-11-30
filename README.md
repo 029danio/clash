@@ -14,7 +14,7 @@ M1或M3芯片MAC 也可以使用 小火箭APP
 Clash Meta [点击下载>>](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest)
 
 ## 翻墙机场推荐 | 好用稳定机场节点 | 机场评测
-[机场推荐（持续更新）🤩](https://github.com/029danio/fly)
+[🤩机场推荐（持续更新）](https://github.com/029danio/fly)
 
 ## 联系方式
 
