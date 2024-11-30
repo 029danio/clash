@@ -1,4 +1,4 @@
-# clash
+# Clash翻墙代理软件
 
 ## Windows电脑软件下载
 Clash Verge [点击下载>>](https://github.com/clash-verge-rev/clash-verge-rev/releases/latest)
