@@ -9,7 +9,7 @@ Clash X [点击下载>>](https://github.com/uyez/rj/releases/download/ClashX/Cla
 
 Clash Verge [点击下载>>](https://github.com/clash-verge-rev/clash-verge-rev/releases/latest)
 
-M1或M3芯片MAC 也可以使用 小火箭APP
+M1,M2,M3芯片MAC 均可以使用小火箭App（Inter芯片的MAC无法使用小火箭）
 
 ## 安卓APP下载
 Clash Meta [点击下载>>](https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest)
