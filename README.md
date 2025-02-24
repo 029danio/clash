@@ -19,6 +19,7 @@ Clash Meta [点击下载>>](https://github.com/MetaCubeX/ClashMetaForAndroid/rel
 
 # 2025翻墙机场推荐 | 好用稳定机场节点 | 机场评测
 ## [🚀机场推荐（持续更新）](https://github.com/029danio/fly)
+## [🚀机场VPN推荐（高质严选版）](https://flyvpn88.top/)
 
 ## 联系方式
 
