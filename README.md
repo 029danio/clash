@@ -1,4 +1,4 @@
-# Clash翻墙代理软件
+# Clash翻墙代理软件（电脑 安卓 苹果）
 
 ## 最新FLclash三端下载地址
 FLclash [点击下载>>](https://github.com/chen08209/FlClash/releases/tag/v0.8.70)
