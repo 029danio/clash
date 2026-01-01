@@ -1,4 +1,4 @@
-# 2025翻墙机场推荐 | 好用稳定机场节点 | 机场评测
+# 2026翻墙机场推荐 | 好用稳定机场节点 | 机场评测
 ## [🚀机场推荐（Github）](https://github.com/029danio/fly)
 ## [🚀机场VPN推荐（高质严选版）](https://flyvpn88.top/)
 
@@ -28,3 +28,9 @@ Clash Meta [点击下载>>](https://github.com/MetaCubeX/ClashMetaForAndroid/rel
 如需帮助或有任何疑问，请通过以下方式联系我们：
 
 - 邮箱:  xasgxq@gmail.com
+
+---------
+
+【2026中国大陆科学上网指南】：机场节点推荐、速度对比与选购技巧（小白必看）https://jichangvpn.top/?p=1
+
+🏆 2026最稳机场推荐榜单（实测不吹版）https://jichangvpn.top/?p=32
